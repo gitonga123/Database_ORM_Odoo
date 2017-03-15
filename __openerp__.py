@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "database",
+    'name': "Learning Database",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Learning About Databases using the ORM (Object Relational Model) - I stand to be corrected
+       """,
 
     'description': """
-        Long description of module's purpose
+        Odoo Databases
     """,
 
     'author': "My Company",
